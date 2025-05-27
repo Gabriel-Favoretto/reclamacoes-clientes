@@ -19,8 +19,7 @@ Ferramentas: Google Colab, Python, Pandas, Matplotlib, Seaborn
 
 ## Como abrir o projeto
 
-Clique para rodar direto no Colab:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/reclamacoes-clientes/blob/main/notebook/analise_reclamacoes.ipynb)
+Abra direto clicando [neste link](https://colab.research.google.com/drive/1SvXM3ZnVg81tgMiye6_2kI-OdMokiT9-#scrollTo=qOr2pgMOBVN1).
 
 ## Principais análises que fiz
 
